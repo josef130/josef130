@@ -1,4 +1,4 @@
- ### 👋  Hello there! MED.L from Algeria  <a href="https://www.linkedin.com/in/mohammedlayati/"><img src="https://img.shields.io/badge/-Jean-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> from :brazil:
+ ### 👋  Hello there! MED.L <a href="https://www.linkedin.com/in/mohammedlayati/"><img src="https://img.shields.io/badge/-MED-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> from Algeria:
 
 <p align="center">
 <a href="https://github.com/josef130">
